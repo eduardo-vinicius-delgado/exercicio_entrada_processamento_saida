@@ -1,2 +1,4 @@
 # exercicio_entrada_processamento_saida
- Exercício realizado para prática de entrada de dados, processamento dos mesmos e demonstração em saída em console.
+Level: Easy
+**Exercício de entrada,processamento e saída**
+Praticar entrada de dados pela classe Scanner, processamento por funções matemáticas e saídas por console.
