@@ -23,6 +23,7 @@ public class Main {
         System.out.printf("Valor 1 elevado ao valor 2: %.2f \n", exponenciacaoValores);
         radiciacaoValores = Math.pow(valor1,1/(double) valor2);
         System.out.printf("Valor 1 como raiz quadrada do valor 2: %.2f", radiciacaoValores);
+
         sc.close();
     }
 }
